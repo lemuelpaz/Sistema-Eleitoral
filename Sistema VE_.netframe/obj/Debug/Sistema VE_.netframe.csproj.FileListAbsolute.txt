@@ -1,0 +1,11 @@
+C:\Users\lemuel.lima\source\repos\Sistema VE_.netframe\Sistema VE_.netframe\bin\Debug\Sistema VE_.netframe.exe.config
+C:\Users\lemuel.lima\source\repos\Sistema VE_.netframe\Sistema VE_.netframe\bin\Debug\Sistema VE_.netframe.exe
+C:\Users\lemuel.lima\source\repos\Sistema VE_.netframe\Sistema VE_.netframe\bin\Debug\Sistema VE_.netframe.pdb
+C:\Users\lemuel.lima\source\repos\Sistema VE_.netframe\Sistema VE_.netframe\obj\Debug\Sistema VE_.netframe.csproj.AssemblyReference.cache
+C:\Users\lemuel.lima\source\repos\Sistema VE_.netframe\Sistema VE_.netframe\obj\Debug\Sistema VE_.netframe.csproj.SuggestedBindingRedirects.cache
+C:\Users\lemuel.lima\source\repos\Sistema VE_.netframe\Sistema VE_.netframe\obj\Debug\Sistema_VE_.netframe.Form1.resources
+C:\Users\lemuel.lima\source\repos\Sistema VE_.netframe\Sistema VE_.netframe\obj\Debug\Sistema_VE_.netframe.Properties.Resources.resources
+C:\Users\lemuel.lima\source\repos\Sistema VE_.netframe\Sistema VE_.netframe\obj\Debug\Sistema VE_.netframe.csproj.GenerateResource.cache
+C:\Users\lemuel.lima\source\repos\Sistema VE_.netframe\Sistema VE_.netframe\obj\Debug\Sistema VE_.netframe.csproj.CoreCompileInputs.cache
+C:\Users\lemuel.lima\source\repos\Sistema VE_.netframe\Sistema VE_.netframe\obj\Debug\Sistema VE_.netframe.exe
+C:\Users\lemuel.lima\source\repos\Sistema VE_.netframe\Sistema VE_.netframe\obj\Debug\Sistema VE_.netframe.pdb
